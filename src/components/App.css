@@ -3,7 +3,6 @@
   height: 353px;
   background-color: rgb(233, 231, 231);
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
   align-items: center;
   margin: auto;
