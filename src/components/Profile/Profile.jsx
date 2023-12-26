@@ -1,5 +1,5 @@
 import styles from './Profile.module.css';
-import './user.json';
+import '../Data/user.json';
 
 const UserProfile = ({ avatar, username, tag, location, stats }) => {
   return (
